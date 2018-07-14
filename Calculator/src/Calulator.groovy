@@ -9,6 +9,7 @@ class Calulator {
 		b = args[1].toInteger() //Get the second number.
 		c = a + b //Add 2 numbers.
 		println "The Sum of two numbers =" + c //Show output.
+		println "The Sum of two numbers =" + c //Show output.
 	}
 
 }
