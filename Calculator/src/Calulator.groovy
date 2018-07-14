@@ -1,6 +1,7 @@
 
 public class Calulator {
 
+	//Calculate.
 	public static void main(String[] args) 
 	{
 		//Add two numbers and print the sum.
