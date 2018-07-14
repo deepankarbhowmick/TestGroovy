@@ -1,5 +1,5 @@
 
-class Calulator {
+public class Calulator {
 
 	public static void main(String[] args) 
 	{
